@@ -154,7 +154,7 @@ function Courses({}: Props) {
   ];
 
   return (
-    <section className="mx-10 py-20 mb-16 overflow-hidden">
+    <section className="mx-10 py-20  overflow-hidden">
       <section className="flex flex-col md:flex-row gap-6 items-start md:justify-between md:items-end">
         <div className="max-w-2xl">
           <h3 className="font-bold text-primary text-xl uppercase font-poppins mb-4">

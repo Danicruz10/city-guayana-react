@@ -31,7 +31,7 @@ function Nav({}: Props) {
   };
 
   return (
-    <header className="h-20  fixed top-0 z-50 w-full bg-white/93 backdrop-blur-md">
+    <header className="h-20  fixed top-0 z-50 w-full bg-white/90 backdrop-blur-md">
       <nav className="hidden h-full mx-10 sm:flex justify-between items-center ">
         {" "}
         <h1>logo</h1>
